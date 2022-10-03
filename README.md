@@ -43,3 +43,14 @@ else:
     print("Incorreto!")
 
 print(f"Quiz acabou... Pontuação: {score}/2")
+
+
+
+Diagrama:
+
+![Captura de tela 2022-10-02 211846](https://user-images.githubusercontent.com/114430918/193482971-e2602eee-35c8-4309-96ae-087b6727abef.jpg)
+
+
+
+
+
