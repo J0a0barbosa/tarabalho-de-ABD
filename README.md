@@ -12,8 +12,11 @@ User Stories
 o quiz foi desenvolvido para testar os conhecimentos do usuário, respondendo ele além do usuário saber o nível do seu conhecimento, 
  ele pode aprender muito com o quiz também, e indo bem melhor no outro quiz e aumentando seu nível de conhecimento.  
  
+ 
+ 
+ 
 
-código em Python.
+CÓDIGO EM PYTHON.
 
 print("Seja muito bem vindo ao quiz do Iury!")
 answer_user = input("Quer começar? (S/N) ")
@@ -46,7 +49,7 @@ print(f"Quiz acabou... Pontuação: {score}/2")
 
 
 
-Diagrama:
+DIAGRAMA:
 
 ![Captura de tela 2022-10-02 211846](https://user-images.githubusercontent.com/114430918/193482971-e2602eee-35c8-4309-96ae-087b6727abef.jpg)
 
